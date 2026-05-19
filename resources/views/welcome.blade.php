@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>تصليح وصيانة الخزانات | أبو محمد</title>
+    <title>تبريد مياه الخزان - غسيل وتصليح جميع أنواع التوانكى</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
     <link
         href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800;900&family=Cairo:wght@300;400;600;700;900&display=swap"
@@ -282,7 +282,7 @@
     </section>
 
     <!-- ARTICLE -->
-    {{-- <section id="article">
+    <section id="article">
         <div class="container">
             <div class="text-center mb-5 reveal">
                 <p class="section-label">معلومات مفيدة</p>
@@ -341,7 +341,7 @@
                 </div>
             </div>
         </div>
-    </section> --}}
+    </section>
 
     <!-- CONTACT -->
     <section id="contact">
