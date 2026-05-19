@@ -24,11 +24,11 @@
             </button>
             <div class="collapse navbar-collapse" id="navMenu">
                 <ul class="navbar-nav me-auto gap-1">
-                    <li class="nav-item"><a class="nav-link" href="#about">من نحن</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#why">لماذا نحن</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#works">أعمالنا</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/#about">من نحن</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/#why">لماذا نحن</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/#works">أعمالنا</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ route('blog.index') }}">مقالنا</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#contact">تواصل معنا</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/#contact">تواصل معنا</a></li>
                 </ul>
                 <div class="d-flex gap-2 mt-2 mt-lg-0">
                     <a href="tel:65607075" class="btn-call c-blue" style="padding:9px 20px;font-size:0.9rem;">
